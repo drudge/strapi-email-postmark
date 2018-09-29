@@ -1,0 +1,37 @@
+{
+  "name": "strapi-email-postmark",
+  "version": "3.0.0-alpha",
+  "description": "Postmark provider for strapi Email plugin",
+  "homepage": "http://strapi.io",
+  "keywords": [
+    "email",
+    "strapi",
+    "postmark"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "postmark": "^1.6.1"
+  },
+  "strapi": {
+    "isProvider": true
+  },
+  "author": {
+    "email": "nick@penree.com",
+    "name": "Nicholas Penree"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drudge/strapi-email-postmark.git"
+  },
+  "bugs": {
+    "url": "https://github.com/drudge/strapi-email-postmark/issues"
+  },
+  "engines": {
+    "node": ">= 9.0.0",
+    "npm": ">= 5.3.0"
+  },
+  "license": "MIT"
+}
