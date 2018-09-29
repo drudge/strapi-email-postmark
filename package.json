@@ -1,6 +1,6 @@
 {
   "name": "strapi-email-postmark",
-  "version": "3.0.0-alpha",
+  "version": "3.0.0-alpha.1",
   "description": "Postmark provider for strapi Email plugin",
   "homepage": "http://strapi.io",
   "keywords": [
